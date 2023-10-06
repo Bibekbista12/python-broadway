@@ -1,0 +1,13 @@
+git remote add origin <repo-ssh-link>
+=> Adds remote repo alias name in the local repo
+git remote -v
+=> It displays all the available  remote repos name
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+=> Generates a new ssh key
+
+
+
+
+
+
+
